@@ -6,7 +6,6 @@
 import constants
 import random
 
-
 def main():
     # Define variables and list
     sum = 0
