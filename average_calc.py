@@ -4,7 +4,9 @@
 # This code calculates the averages given random numbers
 
 import random
+
 import constants
+
 
 def main():
     # Define variables and list
