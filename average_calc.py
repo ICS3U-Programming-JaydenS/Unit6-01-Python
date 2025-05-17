@@ -3,8 +3,8 @@
 # Date: May 12, 2025
 # This code calculates the averages given random numbers
 
-import constants
 import random
+import constants
 
 def main():
     # Define variables and list
